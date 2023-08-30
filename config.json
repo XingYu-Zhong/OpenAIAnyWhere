@@ -1,0 +1,6 @@
+{
+    "proxy_ip": "127.0.0.1",
+    "proxy_port": "10809",
+    "flask_port": 8123,
+    "target_url": "https://xxxx.pages.dev"
+}
