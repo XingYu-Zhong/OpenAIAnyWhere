@@ -1,0 +1,2 @@
+# OpenAIAnyWhere
+给openai做国内转发api功能，解决国内无法直接访问openai问题
